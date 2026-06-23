@@ -2,7 +2,7 @@
 function NavLink({label, href = "#"}){
     return (
         <li>
-            <a href="{href}" 
+            <a href={href}
             className="
             text-white hover:text-red-600 
             text-[12px] sm:text-lg">

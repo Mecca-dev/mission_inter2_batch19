@@ -3,7 +3,7 @@ import NavLink from '../atoms/Navlink'
 const menuItems = [
     { label: "Series", href: "/series"},
     { label: "Film", href: "/film"},
-    { label: "Daftar Saya", href: "/daftar"},
+    { label: "Daftar Saya", href: "/mylist"},
 ]
 
 function NavMenu(){
