@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* tempat saya mengcustom css nya */
+@theme {
+    --breakpoint-xs: 425px;
+    
+}
